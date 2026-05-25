@@ -158,3 +158,6 @@ Validated business rules:
 ## 7. Video Walkthrough Deliverable
 - Include the final upload link in this section before submission:
   - Video URL: https://youtu.be/zpbrnmpGczk
+
+---
+Link web demo: https://praxis-demo-4nbi.vercel.app/
