@@ -156,7 +156,5 @@ Validated business rules:
 ---
 
 ## 7. Video Walkthrough Deliverable
-
-- Record a <=3 minute demo following `WALKTHROUGH_SCRIPT.md`.
 - Include the final upload link in this section before submission:
-  - Video URL: `https://youtu.be/zpbrnmpGczk`
+  - Video URL: https://youtu.be/zpbrnmpGczk
